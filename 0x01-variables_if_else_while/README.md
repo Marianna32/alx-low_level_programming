@@ -9,3 +9,4 @@ This program will assign a random number to the variable n each time it is execu
 8-print_base16.c Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 9-print_comb.c Write a program that prints all possible combinations of single-digit numbers.
 100-print_comb3.c Write a program that prints all possible different combinations of two digits.
+101-print_comb4.c Write a program that prints all possible different combinations of three digits.
