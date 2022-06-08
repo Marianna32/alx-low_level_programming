@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * add - a function that adds two integers and returns the result
+ * @one: first number input
+ * @two: second number input
+ * Return: one + two
  */
 int add(int one, int two)
 {
