@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * rev_string - check the code for Holberton School students.
+ * rev_string - check the code for ALX students.
  * @s: pointer int type
  * Return: Always 0.
  */
