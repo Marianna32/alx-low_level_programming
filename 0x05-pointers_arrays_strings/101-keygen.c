@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for ALX students.
  * 
  * Return: Always 0.
  */
