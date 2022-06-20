@@ -1,3 +1,8 @@
+*
+ * File: 0-memset.c
+ * Auth: M Boshoff
+ */
+
 #include "main.h"
 
 /**
@@ -18,3 +23,4 @@ void *_memset(void *s, int c, size_t n)
 		memory[index] = value;
 
 	return (memory);
+}
